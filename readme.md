@@ -8,13 +8,12 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
-  <h3 align="center">AD - CI4 Template</h3>
+  <h3 align="center">TINTAhan</h3>
 </div>
 
 <!-- * Description Section -->
 <div align="center">
-This repository is a beginner-friendly CodeIgniter 4 template.  
-It helps teams quickly bootstrap backend + frontend projects, with simple sample modules that show how to extend the system.
+Our tattoo studio brings your ideas to life with precision, creativity, and passion. From bold designs to subtle expressions, every tattoo we create tells a story. Step into TINTAhan and leave with more than just ink — leave with a masterpiece that lasts a lifetime.
 </div>
 
 <br/>
